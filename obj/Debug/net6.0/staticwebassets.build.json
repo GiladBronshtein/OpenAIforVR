@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nRqnv3RnpLIvDUhGarq+y+rav/JuhkXoMSRH3U2zWSs=",
+  "Hash": "ZIybd0iMHXQisqghBPL3Ky6pr6O3qpPsFYrBwQRqtIY=",
   "Source": "Prog3_WebApi_Javascript",
   "BasePath": "_content/Prog3_WebApi_Javascript",
   "Mode": "Default",
@@ -129,25 +129,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\javascript_oepnai.js"
-    },
-    {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\openai.html",
-      "SourceId": "Prog3_WebApi_Javascript",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
-      "BasePath": "_content/Prog3_WebApi_Javascript",
-      "RelativePath": "openai.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\openai.html"
     }
   ]
 }

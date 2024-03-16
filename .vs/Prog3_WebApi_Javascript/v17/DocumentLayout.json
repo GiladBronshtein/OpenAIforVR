@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|c:\\users\\gbronshtein\\desktop\\programming3\\finalprojectprog3\\openaiforvr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|c:\\users\\gbronshtein\\desktop\\programming3\\finalprojectprog3\\openaiforvr\\controllers\\gptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:controllers\\gptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,14 +44,27 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-16T13:07:38.653Z",
+              "WhenOpened": "2024-03-16T18:22:17.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:28:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -55,25 +72,24 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-16T13:02:27.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T13:02:27.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GPTController.cs",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Controllers\\GPTController.cs",
               "RelativeDocumentMoniker": "Controllers\\GPTController.cs",
               "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Controllers\\GPTController.cs",
               "RelativeToolTip": "Controllers\\GPTController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADMAAAA8AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T12:18:22.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "javascript_oepnai.js",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript_oepnai.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\javascript_oepnai.js",

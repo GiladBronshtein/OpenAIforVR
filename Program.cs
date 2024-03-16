@@ -17,6 +17,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 // נוסיף את השורות האלו
 app.UseDefaultFiles();
 app.UseStaticFiles();
