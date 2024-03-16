@@ -1,22 +1,126 @@
 ﻿<!DOCTYPE html>
-<html lang="he" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>תכנות 3 - שיעור API</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- CSS -->
-    <link href="css/bootstrap.rtl.min.css" rel="stylesheet" />
+    <title>OpenAI</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
     <link href="css/styles.css" rel="stylesheet" />
-
-    <!-- JS -->
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/javascript.js"></script>
+    <script src="js/javascript_oepnai.js"></script>
 </head>
 <body>
-    <h1>קורס תכנות 3</h1>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Hello world</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Features</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Container -->
+    <div class="container">
+        <div class="row">
+            <div class="mb-3">
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <h3 class="text-center">Learn VR with AI</h3>
+                        <p class="card-text d-flex justify-content-center">Unlock VR insights with ChatGPT—interactive learning at your fingertips! 🤖🕶</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Categories -->
+        <div class="mb-3">
+            <label for="categories" class="form-label">Choose a Category:</label>
+            <select class="form-select" id="categories">
+                <option value="VR Games">VR Games</option>
+                <option value="VR Headsets">VR Headsets</option>
+                <option value="VR Development Platforms">VR Development Platforms</option>
+            </select>
+        </div>
+
+        <!-- Level of school -->
+        <div class="mb-3">
+            <label for="schoolLevel" class="form-label">Choose a Level:</label>
+            <select class="form-select" id="schoolLevel">
+                <option value="Middle school">Middle School</option>
+                <option value="High school">High School</option>
+                <option value="University">University</option>
+            </select>
+        </div>
+
+        <!-- List of languages -->
+        <div class="mb-3">
+            <label for="language" class="form-label">Choose a Language:</label>
+            <select class="form-select" id="language">
+                <option value="english">English</option>
+                <option value="hebrew">Hebrew</option>
+                <option value="russian">Russian</option>
+            </select>
+        </div>
+
+        <!--Get Questions BUTTON -->
+        <button class="btn btn-primary w-100" onclick="getQuestion()">Get Questions</button>
+
+        <!--ALERT DIV for JS-->
+        <div id="alertDiv"></div>
+
+
+        <!--CarouselwithCardQUESTIONS-->
+        <div id="questionsListGroup" class="list-group mt-3">
+            <!--Carousel-->
+            <div class="carouselWrapper">
+                <div id="carouselExample" class="carousel slide carousel-dark" data-bs-ride="carousel ">
+                    <div class="carousel-inner ">
+                        <!-- Carousel items will be injected here by JavaScript -->
+                    </div>
+
+                    <div id="carouselbuttons">
+                        <!--PREV / NEXT Buttons-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--</div>-->
+
+
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="check-circle-fill" viewBox="0 0 16 16">
+            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+        </symbol>
+        <symbol id="info-fill" viewBox="0 0 16 16">
+            <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" />
+        </symbol>
+        <symbol id="exclamation-triangle-fill" viewBox="0 0 16 16">
+            <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+        </symbol>
+    </svg>
+
+
+
+
+    <!-- Footer -->
+    <footer class="bg-light text-center text-lg-start">
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.1);">
+            <a class="text-dark" href="https://www.linkedin.com/in/alexander-levin-3a3b3b1b3/">Adir Segal & Gilad Bronshtein</a>
+        </div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

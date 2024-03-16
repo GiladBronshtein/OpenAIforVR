@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\index.html",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\javascript.js",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript.js",
       "PackagePath": "staticwebassets\\js\\javascript.js"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\javascript_oepnai.js",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript_oepnai.js",
       "PackagePath": "staticwebassets\\js\\javascript_oepnai.js"
     },
     {
-      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\openai.html",
+      "Id": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\openai.html",
       "PackagePath": "staticwebassets\\openai.html"
     },
     {

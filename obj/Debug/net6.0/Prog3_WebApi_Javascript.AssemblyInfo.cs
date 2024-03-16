@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prog3_WebApi_Javascript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c81fcbabf3ef6d4fe161b3f4f0c44e6a556a09a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prog3_WebApi_Javascript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prog3_WebApi_Javascript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

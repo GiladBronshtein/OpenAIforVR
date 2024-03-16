@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9eQbQ0qLLS9wyw9xJVPpAwMWtvZIML9TZghLCiAQoeM6DWe3EqXpRW4QdDx2oPqofk5GXYmBlbfbJ4pnKIWHw==",
+  "dgSpecHash": "ZSki9y/zUSLEA8KH/NKrelsDm6CmM33bfYw4yWKil4JVeaIfd4YsmBuC4fECzL9zI6k3RscElmBo0bvAeaPKig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\Prog3_WebApi_Javascript.csproj",
+  "projectFilePath": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Prog3_WebApi_Javascript.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gbronshtein\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\gbronshtein\\.nuget\\packages\\microsoft.data.sqlite\\8.0.0\\microsoft.data.sqlite.8.0.0.nupkg.sha512",

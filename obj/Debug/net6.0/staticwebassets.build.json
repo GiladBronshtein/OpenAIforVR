@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bGThqwSsuAbW/j26kRrTr9QewvvpLPC0A6h8hdeb09U=",
+  "Hash": "5b0zoiwcnkqX2GoU9ETJnHQCTpB4pehrFxo1k+ZrJwA=",
   "Source": "Prog3_WebApi_Javascript",
   "BasePath": "_content/Prog3_WebApi_Javascript",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Prog3_WebApi_Javascript\\wwwroot",
       "Source": "Prog3_WebApi_Javascript",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\styles.css",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\index.html",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\javascript.js",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript.js",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "js/javascript.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\javascript.js"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\js\\javascript_oepnai.js",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript_oepnai.js",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "js/javascript_oepnai.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\js\\javascript_oepnai.js"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\openai.html",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\openai.html",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
       "RelativePath": "openai.html",
       "AssetKind": "All",
