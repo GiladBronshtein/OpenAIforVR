@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|c:\\users\\gbronshtein\\desktop\\programming3\\finalprojectprog3\\openaiforvr\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|c:\\users\\gbronshtein\\desktop\\programming3\\finalprojectprog3\\openaiforvr\\wwwroot\\openai.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:wwwroot\\openai.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|c:\\users\\gbronshtein\\desktop\\programming3\\finalprojectprog3\\openaiforvr\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BCD2D3D1-9F66-4640-AEA3-5F9CA4C24D3E}|Prog3_WebApi_Javascript.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -46,37 +38,25 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-16T12:39:33.261Z",
+              "WhenOpened": "2024-03-16T13:02:27.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\index.html",
-              "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAkwGYAAACbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-16T12:18:37.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "GPTController.cs",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Controllers\\GPTController.cs",
               "RelativeDocumentMoniker": "Controllers\\GPTController.cs",
               "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\Controllers\\GPTController.cs",
               "RelativeToolTip": "Controllers\\GPTController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADMAAAA8AAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T12:18:22.891Z"
+              "WhenOpened": "2024-03-16T12:18:22.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
@@ -84,12 +64,11 @@
               "RelativeToolTip": "wwwroot\\css\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-16T12:18:23.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T12:18:23.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "javascript_oepnai.js",
               "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\javascript_oepnai.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\javascript_oepnai.js",
@@ -98,19 +77,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-03-16T12:18:23.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "openai.html",
-              "DocumentMoniker": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\openai.html",
-              "RelativeDocumentMoniker": "wwwroot\\openai.html",
-              "ToolTip": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\openai.html",
-              "RelativeToolTip": "wwwroot\\openai.html",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAkwH4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-16T12:18:23.026Z",
-              "EditorCaption": ""
             }
           ]
         }
