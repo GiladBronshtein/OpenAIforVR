@@ -1,0 +1,22 @@
+﻿footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-narrow {
+    width: 70%; /* Adjust the width as needed */
+    margin: auto; /* This centers the card */
+}
+
+
+
+.fade-out {
+    animation: fadeOut 0.5s forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    }
+}
