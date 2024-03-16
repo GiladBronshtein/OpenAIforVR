@@ -16,17 +16,17 @@
 
 
 
-    let url;
+    const url = 'https://giladbronshtein.github.io/OpenAIforVR/api/GPT/GPTChat'
 
-    // Check if running on localhost
-    if (window.location.hostname === "localhost") {
-        // Local development URL
-        url = 'http://localhost:7036/api/GPT/GPTChat';
-    } else {
-        // Production URL or another environment
-        // You need to set up a proper URL that your production environment can access
-        url = 'https://giladbronshtein.github.io/OpenAIforVR/api/GPT/GPTChat';
-    }
+    //// Check if running on localhost
+    //if (window.location.hostname === "localhost") {
+    //    // Local development URL
+    //    url = 'http://localhost:7036/api/GPT/GPTChat';
+    //} else {
+    //    // Production URL or another environment
+    //    // You need to set up a proper URL that your production environment can access
+    //    url = 'https://giladbronshtein.github.io/OpenAIforVR/api/GPT/GPTChat';
+    //}
 
 
 
