@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5b0zoiwcnkqX2GoU9ETJnHQCTpB4pehrFxo1k+ZrJwA=",
+  "Hash": "nRqnv3RnpLIvDUhGarq+y+rav/JuhkXoMSRH3U2zWSs=",
   "Source": "Prog3_WebApi_Javascript",
   "BasePath": "_content/Prog3_WebApi_Javascript",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\images\\favicon.ico",
       "SourceId": "Prog3_WebApi_Javascript",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\",
       "BasePath": "_content/Prog3_WebApi_Javascript",
-      "RelativePath": "index.html",
+      "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\gbronshtein\\Desktop\\Programming3\\FinalProjectProg3\\OpenAIforVR\\wwwroot\\js\\bootstrap.bundle.min.js",
